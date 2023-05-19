@@ -1,0 +1,107 @@
+[
+{
+ "studyWeek": "1",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 1
+},
+{
+  "studyWeek": "2",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 2
+},
+{
+  "studyWeek": "3",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 3
+},
+{
+  "studyWeek": "4",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 4
+},
+{
+  "studyWeek": "5",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 5
+},
+{
+  "studyWeek": "6",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 6
+},
+{
+  "studyWeek": "7",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 7
+},
+{
+  "studyWeek": "8",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 8
+},
+{
+  "studyWeek": "9",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 9
+},
+{
+  "studyWeek": "10",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 10
+},
+{
+  "studyWeek": "11",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 11
+},
+{
+  "studyWeek": "12",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 12
+},
+{
+  "studyWeek": "13",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 13
+},
+{
+  "studyWeek": "14",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 14
+},
+{
+  "studyWeek": "15",
+  "coveredTopic": "OOP in python",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 152",
+  "weekNum": 15
+}
+]

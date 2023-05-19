@@ -1,0 +1,107 @@
+[
+{
+  "studyWeek": "1",
+  "coveredTopic": "Introduction",
+  "assignmentDates": [],
+  "courseName": "CSCI 151",
+  "weekNum": 1
+},
+{
+  "studyWeek": "2",
+  "coveredTopic": "Programming Fundamentals",
+  "assignmentDates": [],
+  "courseName": "CSCI 151",
+  "weekNum": 2
+},
+{
+  "studyWeek": "3",
+  "coveredTopic": "Loops & Arrays",
+  "assignmentDates": [],
+  "courseName": "CSCI 151",
+  "weekNum": 3
+},
+{
+  "studyWeek": "4",
+  "coveredTopic": "Functions",
+  "assignmentDates": ["2023-05-25"],
+  "courseName": "CSCI 151",
+  "weekNum": 4
+},
+{
+  "studyWeek": "5",
+  "coveredTopic": "Try-catch & error handling",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 151",
+  "weekNum": 5
+},
+{
+  "studyWeek": "6",
+  "coveredTopic": "File I/O",
+  "assignmentDates": [],
+  "courseName": "CSCI 152",
+  "weekNum": 6
+},
+{
+  "studyWeek": "7",
+  "coveredTopic": "Recursion",
+  "assignmentDates": ["2023-06-09"],
+  "courseName": "CSCI 151",
+  "weekNum": 7
+},
+{
+  "studyWeek": "8",
+  "coveredTopic": "Debugging",
+  "assignmentDates": [],
+  "courseName": "CSCI 151",
+  "weekNum": 8
+},
+{
+  "studyWeek": "9",
+  "coveredTopic": "Strings",
+  "assignmentDates": ["2023-06-24"],
+  "courseName": "CSCI 151",
+  "weekNum": 9
+},
+{
+  "studyWeek": "10",
+  "coveredTopic": "Pointers",
+  "assignmentDates": ["2023-06-29"],
+  "courseName": "CSCI 151",
+  "weekNum": 10
+},
+{
+  "studyWeek": "11",
+  "coveredTopic": "Selection & insertion sort",
+  "assignmentDates": [],
+  "courseName": "CSCI 151",
+  "weekNum": 11
+},
+{
+  "studyWeek": "12",
+  "coveredTopic": "Dynamic memory allocation",
+  "assignmentDates": ["2023-07-20"],
+  "courseName": "CSCI 152",
+  "weekNum": 12
+},
+{
+  "studyWeek": "13",
+  "coveredTopic": "Linked data structures",
+  "assignmentDates": [],
+  "courseName": "CSCI 151",
+  "weekNum": 13
+},
+{
+  "studyWeek": "14",
+  "coveredTopic": "Multi-file programs",
+  "assignmentDates": ["2023-08-05"],
+  "courseName": "CSCI 151",
+  "weekNum": 14
+},
+{
+  "studyWeek": "15",
+  "coveredTopic": "Review",
+  "assignmentDates": [],
+  "courseName": "CSCI 151",
+  "weekNum": 15
+}
+]

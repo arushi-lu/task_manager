@@ -1,0 +1,16 @@
+[
+{
+ "studyWeek": "2",
+  "coveredTopic": "JavaScupt fundamentals",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 112",
+  "weekNum": 2
+}, 
+{
+ "studyWeek": "3",
+  "coveredTopic": "PHP fundamentals",
+  "assignmentDates": ["2023-05-29"],
+  "courseName": "CSCI 112",
+  "weekNum": 3
+}
+]

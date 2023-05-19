@@ -1,0 +1,107 @@
+[
+{
+  "studyWeek": "1",
+  "coveredTopic": "The Probability Function",
+  "assignmentDates": [],
+  "courseName": "Math 321",
+  "weekNum": 1
+},
+{
+  "studyWeek": "2",
+  "coveredTopic": "Conditional Probability",
+  "assignmentDates": ["2023-05-25"],
+  "courseName": "Math 321",
+  "weekNum": 2
+},
+{
+  "studyWeek": "3",
+  "coveredTopic": "Combinatorics, Combinatorial Probability",
+  "assignmentDates": [],
+  "courseName": "Math 321",
+  "weekNum": 3
+},
+{
+  "studyWeek": "4",
+  "coveredTopic": "Binomial and Hypergeometric Probabilities",
+  "assignmentDates": ["2023-06-05"],
+  "courseName": "Math 321",
+  "weekNum": 4
+},
+{
+  "studyWeek": "5",
+  "coveredTopic": "Discrete Random variables ",
+  "assignmentDates": [],
+  "courseName": "Math 321",
+  "weekNum": 5
+},
+{
+  "studyWeek": "6",
+  "coveredTopic": "Continuous Random Variables, Expected Values",
+  "assignmentDates": ["2023-06-23"],
+  "courseName": "Math 321",
+  "weekNum": 6
+},
+{
+  "studyWeek": "7",
+  "coveredTopic": "The Variance, Joint Densities",
+  "assignmentDates": [],
+  "courseName": "Math 321",
+  "weekNum": 7
+},
+{
+  "studyWeek": "8",
+  "coveredTopic": "Transforming and Combining Random Variables",
+  "assignmentDates": [],
+  "courseName": "Math 321",
+  "weekNum": 8
+},
+{
+  "studyWeek": "9",
+  "coveredTopic": "Order Statistics",
+  "assignmentDates": ["2023-07-10"],
+  "courseName": "Math 321",
+  "weekNum": 9
+},
+{
+  "studyWeek": "10",
+  "coveredTopic": "Moment-Generating Functions",
+  "assignmentDates": [],
+  "courseName": "Math 321",
+  "weekNum": 10
+},
+{
+  "studyWeek": "11",
+  "coveredTopic": "Poisson Distribution",
+  "assignmentDates": [],
+  "courseName": "Math 321",
+  "weekNum": 11
+},
+{
+  "studyWeek": "12",
+  "coveredTopic": "Normal Distribution",
+  "assignmentDates": [],
+  "courseName": "Math 321",
+  "weekNum": 12
+},
+{
+  "studyWeek": "13",
+  "coveredTopic": "Linked data structures",
+  "assignmentDates": ["2023-07-27"],
+  "courseName": "Math 321",
+  "weekNum": 13
+},
+{
+  "studyWeek": "14",
+  "coveredTopic": "Geometric Distribution",
+  "assignmentDates": ["2023-08-04"],
+  "courseName": "Math 321",
+  "weekNum": 14
+},
+{
+  "studyWeek": "15",
+  "coveredTopic": "Gamma Distribution",
+  "assignmentDates": [],
+  "courseName": "Math 321",
+  "weekNum": 15
+}
+]
